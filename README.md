@@ -1,76 +1,111 @@
-# Ahmed Sameh Sobhy - Network Security Engineer
+# Ahmed Sameh Sobhy - CV
 
-Welcome to my professional profile! I am a dedicated **Network Security Engineer** with a passion for securing networks and mitigating cyber threats. With extensive experience in network architecture, firewall management, and cybersecurity, I am committed to enhancing organizational security and driving technological innovation.
+**Securing Networks, Empowering Futures**
+
+---
+
+## Contact Information
+
+- **Email**: [ahmedsameh1600@gmail.com](mailto:ahmedsameh1600@gmail.com)
+- **Phone**: [+201063257074](tel:+201063257074)
+- **LinkedIn**: [linkedin.com/in/ahmed-sameh-sobhy](https://www.linkedin.com/in/ahmed-sameh-sobhy/)
+- **GitHub**: [github.com/ahmedsameh1600](https://github.com/ahmedsameh1600/)
+
+---
+
+## Table of Contents
+
+- [Objective](#objective)
+- [Work Experience](#work-experience)
+- [Education](#education)
+- [Technical Skills](#technical-skills)
+- [Certificates](#certificates)
+- [Trainings](#trainings)
+- [Interpersonal Skills](#interpersonal-skills)
+- [Languages](#languages)
 
 ---
 
 ## Objective
 
-I am seeking a rewarding career in network security to leverage my expertise in designing secure network architectures, managing advanced security solutions, and mitigating cyber threats. I am passionate about continuous learning and contributing to organizational growth.
+I am seeking a rewarding career opportunity in the dynamic field of network security to actively enhance and further develop my exceptional capabilities and personal skills. Passionate about acquiring new knowledge and hands-on experience, I am eager to contribute my expertise in securing networks and mitigating cyber threats while continuously enriching my professional growth.
 
 ---
 
 ## Work Experience
 
-### IT Network Security Senior Engineer  
-**WE DATA Telecom Egypt** | Feb 2025 – Present
-- Install and maintain security hardware/software solutions.
-- Troubleshoot security issues for users and customers.
-- Execute security changes during planned windows.
-- Conduct Proof of Concepts (POCs) and solution testing.
-- Manage assets and identify upgrade/replacement needs.
-- Stay updated on security trends and threats.
-- Manage FortiGate and PaloAlto firewalls and Cisco ISE (NAC).
+### IT Network Security Senior Engineer – WE DATA Telecom Egypt  
+*Feb 2025 – Present*
 
-### IT Network Security & Systems Engineer  
-**IDSC, The Egyptian Cabinet** | May 2020 – Feb 2025
-- Designed and implemented network architectures for seamless integration.
-- Led incident response, forensic analysis, and threat prevention.
-- Optimized network performance and security metrics.
-- Managed vendor procurement and enforced security policies.
+- Install and maintain security hardware and software solutions.
+- Troubleshoot and diagnose security problems related to users and customers.
+- Execute security changes according to plans during change windows.
+- Contribute to POCs and solution testing before production deployment.
+- Manage asset utilization and determine needs for replacement or upgrade.
+- Maintain up-to-date knowledge of security trends and new threats.
+- Firewall management with FortiGate and PaloAlto.
+- Network Access Control (NAC) with Cisco ISE.
+
+### IT Network Security & Systems Engineer – IDSC, The Egyptian Cabinet  
+*May 2020 – Feb 2025*
+
+- Designed and implemented network architecture for seamless technology integration.
+- Utilized advanced tools for threat detection and response.
+- Led incident response, forensic analysis, and preventive measures.
+- Monitored and optimized network performance and security metrics.
+- Managed vendor procurement for hardware and software solutions.
+- Developed and enforced security policies and procedures.
 - Designed disaster recovery and business continuity plans.
-- Automated security processes for efficiency.
-- Managed firewalls and delivered monitoring/reporting solutions.
+- Automated network security processes to enhance efficiency.
+- Managed firewalls for zero-day threat protection.
+- Delivered monitoring, reporting, and analytics solutions.
 
 ### Part-time IT Instructor  
-**Various Institutions** | 2020 – Present
+*2020 – Present*
+
 - Delivered courses in CCNA R&S, MCSA, MCSE, CCNA Security, and CCNP Security Core.
 
 ---
 
 ## Education
 
-- **DEPI Scholarship – DevOps Track**  
-  Oct 2024 – Apr 2025  
-  *Graduation Project*: Java DevOps CI/CD Project ([GitHub Link](https://github.com/ahmedsameh1600/Final_Project))  
-  *Tools*: Docker, Jenkins, Ansible, Maven
+### DEPI Scholarship – DevOps Track  
+*Oct 2024 – Apr 2025*
 
-- **NTI Scholarship – VMware vSphere**  
-  Feb 2024 – Apr 2024
+- **Graduation Project**: Java DevOps CI/CD Project
+- **Tools Used**: Docker, Jenkins, Ansible, Maven
+- **Project Link**: [github.com/ahmedsameh1600/Final_Project](https://github.com/ahmedsameh1600/Final_Project)
 
-- **NTI Scholarship – Cyber Security Track**  
-  Dec 2019 – Mar 2020  
-  *Graduation Project*: Digital Forensics
+### NTI Scholarship – VMware vSphere  
+*Feb 2024 – Apr 2024*
 
-- **Bachelor of Computer Science and Information Systems**  
-  Suez Canal University | Sept 2015 – May 2019  
-  *Grade*: Very Good  
-  *Graduation Project*: Management of Graduates Affairs Web App (Grade: Excellent)
+### NTI Scholarship – Cyber Security Track  
+*Dec 2019 – Mar 2020*
+
+- **Graduation Project**: Digital Forensics
+
+### Bachelor of Computer Science and Information Systems  
+*Suez Canal University, Sept 2015 – May 2019*
+
+- **Grade**: Very Good
+- **Graduation Project**: Management of Graduates Affairs Web App (Grade: Excellent)
 
 ---
 
 ## Technical Skills
 
-- **Network Architecture & Design**: Planning scalable, secure networks.
-- **Network Security**: Managing FortiGate, PaloAlto firewalls, and Fortimail for email security.
-- **Mentorship & Training**: Guiding junior engineers.
-- **Technical Evaluation**: Defining specs and evaluating tenders.
-- **Government IT Consulting**: Supporting governmental entities.
-- **Security Device Management**: Administering security devices.
-- **Network Documentation**: Creating Visio diagrams and templates.
-- **User Support**: Providing daily security support.
-- **Microsoft Exchange & Active Directory**: In-depth administration.
-- **Load Balancing**: Managing F5 Load Balancers.
+- **Network Architecture & Design**: Planning scalable and secure networks.
+- **Network Security**: Configuring and maintaining FortiGate and PaloAlto firewalls/UTMs.
+- **Email Security**: Deploying and managing Fortimail for antispam protection.
+- **Mentorship & Training**: Training and mentoring junior engineers.
+- **Technical Evaluation**: Defining specifications and evaluating tender offers.
+- **Government IT Consulting**: Design and technical support for governmental entities.
+- **Security Device Management**: Administering and configuring security devices.
+- **Network Documentation**: Creating Visio diagrams and standard templates.
+- **User Support**: Providing daily network security support.
+- **Microsoft Exchange**: Administering Microsoft Exchange 2016.
+- **Active Directory**: In-depth management.
+- **Load Balancing**: Working with F5 Load Balancers.
 
 ---
 
@@ -90,20 +125,24 @@ I am seeking a rewarding career in network security to leverage my expertise in 
 ## Trainings
 
 ### NTRA EGCERT Cybersecurity Advanced Workshop  
-**8 Aug 2021 – 15 Aug 2021**
-- Mastered incident response protocols.
-- Developed forensic investigation skills.
-- Enhanced penetration testing and malware analysis.
-- Strengthened overall cybersecurity posture.
+*8 Aug 2021 – 15 Aug 2021*
+
+- Master Incident Response Protocols
+- Develop Forensic Investigation Skills
+- Enhance Penetration Testing Abilities
+- Improve Malware Detection and Analysis
+- Strengthen Overall Cybersecurity Posture
 
 ---
 
 ## Interpersonal Skills
 
-- Eager to learn and troubleshoot effectively.
+- Eager to learn and research, good troubleshooter.
 - Strong communication and presentation skills.
-- Collaborative team player with excellent time management.
-- Empathetic, fostering respectful relationships.
+- Effective teamwork and time management.
+- Ability to convey information clearly and effectively.
+- Collaborative, contributing to a positive team environment.
+- Empathetic, building strong, respectful relationships.
 
 ---
 
@@ -111,15 +150,6 @@ I am seeking a rewarding career in network security to leverage my expertise in 
 
 - **Arabic**: Native
 - **English**: Very Good
-
----
-
-## Contact Information
-
-- **Email**: [ahmedsameh1600@gmail.com](mailto:ahmedsameh1600@gmail.com)
-- **Phone**: [+201063257074](tel:+201063257074)
-- **LinkedIn**: [linkedin.com/in/ahmed-sameh-sobhy](https://www.linkedin.com/in/ahmed-sameh-sobhy/)
-- **GitHub**: [github.com/ahmedsameh1600](https://github.com/ahmedsameh1600/)
 
 ---
 
