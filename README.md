@@ -1,40 +1,36 @@
-# Ahmed Sameh Sobhy - CV
+# Ahmed Sameh Sobhy
 
 **Securing Networks, Empowering Futures**
 
----
-
-## Contact Information
-
-- **Email**: [ahmedsameh1600@gmail.com](mailto:ahmedsameh1600@gmail.com)
-- **Phone**: [+201063257074](tel:+201063257074)
-- **LinkedIn**: [linkedin.com/in/ahmed-sameh-sobhy](https://www.linkedin.com/in/ahmed-sameh-sobhy/)
-- **GitHub**: [github.com/ahmedsameh1600](https://github.com/ahmedsameh1600/)
+- [📧 Email](mailto:ahmedsameh1600@gmail.com)
+- [📞 Phone](tel:+201063257074)
+- [🔗 LinkedIn](https://www.linkedin.com/in/ahmed-sameh-sobhy/)
+- [🐱 GitHub](https://github.com/ahmedsameh1600/)
 
 ---
 
-## Table of Contents
+## Navigation
 
-- [Objective](#objective)
-- [Work Experience](#work-experience)
-- [Education](#education)
-- [Technical Skills](#technical-skills)
-- [Certificates](#certificates)
-- [Trainings](#trainings)
-- [Interpersonal Skills](#interpersonal-skills)
-- [Languages](#languages)
+- Objective
+- Work Experience
+- Education
+- Technical Skills
+- Certificates
+- Trainings
+- Interpersonal Skills
+- Languages
 
 ---
 
-## Objective
+## 🎯 Objective
 
 I am seeking a rewarding career opportunity in the dynamic field of network security to actively enhance and further develop my exceptional capabilities and personal skills. Passionate about acquiring new knowledge and hands-on experience, I am eager to contribute my expertise in securing networks and mitigating cyber threats while continuously enriching my professional growth.
 
 ---
 
-## Work Experience
+## 💼 Work Experience
 
-### IT Network Security Senior Engineer – WE DATA Telecom Egypt  
+### IT Network Security Senior Engineer - WE DATA Telecom Egypt  
 *Feb 2025 – Present*
 
 - Install and maintain security hardware and software solutions.
@@ -67,7 +63,7 @@ I am seeking a rewarding career opportunity in the dynamic field of network secu
 
 ---
 
-## Education
+## 🎓 Education
 
 ### DEPI Scholarship – DevOps Track  
 *Oct 2024 – Apr 2025*
@@ -92,7 +88,7 @@ I am seeking a rewarding career opportunity in the dynamic field of network secu
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 - **Network Architecture & Design**: Planning scalable and secure networks.
 - **Network Security**: Configuring and maintaining FortiGate and PaloAlto firewalls/UTMs.
@@ -109,7 +105,7 @@ I am seeking a rewarding career opportunity in the dynamic field of network secu
 
 ---
 
-## Certificates
+## 📜 Certificates
 
 - NSE 4 Network Security Professional (Sep 2023)
 - NSE 3 Network Security Associate (Sep 2023)
@@ -122,7 +118,7 @@ I am seeking a rewarding career opportunity in the dynamic field of network secu
 
 ---
 
-## Trainings
+## 📚 Trainings
 
 ### NTRA EGCERT Cybersecurity Advanced Workshop  
 *8 Aug 2021 – 15 Aug 2021*
@@ -135,7 +131,7 @@ I am seeking a rewarding career opportunity in the dynamic field of network secu
 
 ---
 
-## Interpersonal Skills
+## 🤝 Interpersonal Skills
 
 - Eager to learn and research, good troubleshooter.
 - Strong communication and presentation skills.
@@ -146,7 +142,7 @@ I am seeking a rewarding career opportunity in the dynamic field of network secu
 
 ---
 
-## Languages
+## 🌐 Languages
 
 - **Arabic**: Native
 - **English**: Very Good
